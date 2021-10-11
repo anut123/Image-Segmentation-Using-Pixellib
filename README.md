@@ -7,6 +7,7 @@ Pixellib is a library for performing segmentation of objects in images and video
 2.Instance segmentation
 
 PixelLib supports two deep learning libraries for image segmentation which are Pytorch and Tensorflow.
+<br>
 
 <img src="Images/cycle.jpg" width="100%" height="79%">
 <br>
