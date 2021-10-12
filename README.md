@@ -21,7 +21,7 @@
 ### Install Pixellib with 
 
 #### pip3 install pixellib --upgrade 
-<br>
+
 ### Go to these link https://github.com/matterport/Mask_RCNN/releases/tag/v2.0 and download mask_rcnn_coco.h5 after downlaoding placed in an folder
 <img src="Images/cycle.jpg" width="100%" height="79%">
 <br>
