@@ -8,7 +8,7 @@
 
 ### PixelLib supports two deep learning libraries for image segmentation which are Pytorch and Tensorflow 
 
-#### PixelLib Tensorflow Version 
+### PixelLib Tensorflow Version 
 
 ### PixelLib supports tensorflow's version (2.0 - 2.4.1). Install tensorflow using 
 
