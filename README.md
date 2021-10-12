@@ -26,6 +26,8 @@
 
 ### How To Run - 
 
+#### python app.py
+<br>
 <img src="Images/cycle.jpg" width="100%" height="79%">
 <br>
 <img src="Images/output.jpg" width="100%" height="79%">
