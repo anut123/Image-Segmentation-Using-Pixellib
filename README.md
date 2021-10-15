@@ -31,3 +31,5 @@ How To Run -
 <img src="Images/cycle.jpg" width="100%" height="79%">
 <br>
 <img src="Images/output.jpg" width="100%" height="79%">
+<br>
+<img src="Images/count.PNG" width="100%" height="79%">
