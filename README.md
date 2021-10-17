@@ -18,6 +18,10 @@ If you have have a pc enabled GPU, Install tensorflow--gpu's version that is com
 
 #### pip3 install tensorflow--gpu 
 
+#### Install PixelLib
+
+pip3 install pixellib
+
 Install Pixellib with -
 
 #### pip3 install pixellib --upgrade 
