@@ -31,6 +31,8 @@ Install Pixellib with -
 How To Run - 
 
 #### python app.py
+
+#### python code.py (To count the objects in the image)
 <br>
 <img src="Images/cycle.jpg" width="100%" height="79%">
 <br>
